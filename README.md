@@ -3,7 +3,7 @@
 **Role:** Data Analyst  
 **Dataset:** [Kaggle - COVID-19 Clean Complete Dataset](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
-## 🔎 Project Summary
+##  Project Summary
 
 Analyzed COVID-19 time series data for 15+ countries and presented the findings in an interactive Streamlit dashboard:
 
@@ -11,12 +11,12 @@ Analyzed COVID-19 time series data for 15+ countries and presented the findings 
 - Correlation heatmap of key indicators
 - Time series trend of confirmed cases per country
 
-## 📁 Files
+##  Files
 
 - `app.py`: Streamlit dashboard app
 - `covid_19_clean_complete.csv`: Dataset (upload manually from Kaggle)
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. Make sure you have Streamlit installed:
 ```bash
