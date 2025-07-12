@@ -16,7 +16,7 @@ Analyzed COVID-19 time series data for 15+ countries and presented the findings 
 - `app.py`: Streamlit dashboard app
 - `covid_19_clean_complete.csv`: Dataset (upload manually from Kaggle)
 
-## ▶ How to Run
+## How to Run
 
 1. Make sure you have Streamlit installed:
 ```bash
